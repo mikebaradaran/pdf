@@ -1,0 +1,11 @@
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.manifest
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\bin\Debug\PDFconverter.application
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe.manifest
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\obj\Debug\PDFconverter.application
+C:\Users\mikeb\Desktop\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
